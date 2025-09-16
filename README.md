@@ -1,7 +1,7 @@
 # nvim-config
 ---
 
-Lab grown, completely non organic, synthetic neovim-config 
+Lab grown, non organic, genetically modified, synthetic neovim-config 
 
 ---
 
